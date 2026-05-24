@@ -1,0 +1,19 @@
+{
+  "name": "modradar-shield",
+  "version": "0.0.0",
+  "description": "ModRadar: Predictive Raid & Brigading Shield",
+  "main": "src/main.tsx",
+  "scripts": {
+    "build": "tsc",
+    "devvit": "devvit"
+  },
+  "dependencies": {
+    "@devvit/public-api": "0.12.24"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "type": "module",
+  "private": true,
+  "license": "BSD-3-Clause"
+}

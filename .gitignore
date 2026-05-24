@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Devvit CLI configurations & secrets
+.devvit/
+.env
+
+# System files
+.DS_Store
+Thumbs.db
