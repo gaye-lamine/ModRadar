@@ -11,3 +11,20 @@ dist/
 # System files
 .DS_Store
 Thumbs.db
+
+# Médias & assets Devpost (ne pas versionner)
+*.webm
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Documents Devpost (locaux uniquement)
+*.md
+
+# Scripts d'enregistrement temporaires
+record_dashboard*.js
+
+# Profil Chrome de test
+.chrome-user-data/
