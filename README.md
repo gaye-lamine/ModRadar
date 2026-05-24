@@ -140,7 +140,7 @@ npm install
 npm run build
 
 # Run in playtest mode against a test subreddit
-npx devvit playtest <your-subreddit>
+npx devvit playtest ModRadarSandbox
 ```
 
 ---
