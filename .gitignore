@@ -22,6 +22,7 @@ Thumbs.db
 
 # Documents Devpost (locaux uniquement)
 *.md
+!README.md
 
 # Scripts d'enregistrement temporaires
 record_dashboard*.js
