@@ -24,8 +24,9 @@ Thumbs.db
 *.md
 !README.md
 
-# Scripts d'enregistrement temporaires
+# Scripts locaux (non versionnés)
 record_dashboard*.js
+deploy.sh
 
 # Profil Chrome de test
 .chrome-user-data/
